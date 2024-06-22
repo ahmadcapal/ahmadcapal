@@ -5,10 +5,6 @@
 <h3 align="left">About Me:</h3>
 
 <p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> About Me
 Hello! I'm Mad, a passionate web developer dedicated to helping small businesses transition from traditional operations to modern, digital platforms. I believe in the power of technology to transform and elevate businesses, making them more efficient and competitive in today's digital age. </p>
 <p align="left">
 </p>
