@@ -1,5 +1,5 @@
 
-<p align="center">Hello 👋, I'm Ahmad</p1>
+<p style="font-size:160%;" align="center">Hello 👋, I'm Ahmad</p1>
 <h2 align="center">🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified</h2>
 
 <h3 align="left">About Me:</h3>
