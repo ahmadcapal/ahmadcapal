@@ -18,7 +18,7 @@ To assist small businesses in adopting modern web technologies, enhancing their 
 </p>
 <h1></h1>
 
-🌟 Skills and Technologies
+###🌟 Skills and Technologies
 Web Development: HTML, CSS, JavaScript, React, Node.js
 Backend: Express.js, MongoDB, SQL
 DevOps: Docker, Kubernetes, CI/CD
