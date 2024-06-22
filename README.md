@@ -19,7 +19,8 @@ To assist small businesses in adopting modern web technologies, enhancing their 
 
 <h3>🌐 Web Development</h3>
 <ul>
-<li>: HTML, CSS, JavaScript, React, Node.js</li>
+<li> <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</li>
 Backend: Express.js, MongoDB, SQL
 DevOps: Docker, Kubernetes, CI/CD
 Network Engineering: CCNA Certified
