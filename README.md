@@ -1,4 +1,7 @@
 #### 👋 Hello, I'm Ahmad!
+
+🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified
+
 - I'm madly committed to creating a brand and website that brings value to your business.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
