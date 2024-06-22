@@ -17,6 +17,12 @@ To assist small businesses in adopting modern web technologies, enhancing their 
 </p>
 <h1></h1>
 
+<div class="flex-container">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>  
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
