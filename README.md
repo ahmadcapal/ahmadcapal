@@ -1,5 +1,5 @@
 
- Hello 👋, I'm Ahmad
+<h1 align="center"> Hello 👋, I'm Ahmad</h1>
 <h2 align="center">
   🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified</h2>
 
@@ -34,17 +34,6 @@ To assist small businesses in adopting modern web technologies, enhancing their 
    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a></td>
   </tr>
 </table>
-
-- 🔭 I’m currently working on **VMD**
-
-- 👨‍💻 All of my projects are available at [ahmadcapal.com](ahmadcapal.com)
-
-- 📫 How to reach me **ahmadcapal@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmadcapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadcapal" height="30" width="40" /></a>
-</p>
 
 <!---
 ahmadcapal/ahmadcapal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
