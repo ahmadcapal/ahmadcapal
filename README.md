@@ -24,7 +24,7 @@ To assist small businesses in adopting modern web technologies, enhancing their 
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <h4>Backend:</h4> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <h4>Network Engineering: </h4>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/220x220/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.credly.com/badges/3cd0827b-af11-4546-87e1-eba114e78e4e/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/220x220/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="mysql" width="40" height="40"/> </a> 
 
    <br />
    <br />
