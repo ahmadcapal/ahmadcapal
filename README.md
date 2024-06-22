@@ -5,14 +5,14 @@
 <h3 align="left">About Me:</h3>
 
 <p align="left">
-Hello! I'm Mad, a passionate web developer dedicated to helping small businesses transition from traditional operations to modern, digital platforms. I believe in the power of technology to transform and elevate businesses, making them more efficient and competitive in today's digital age. </p>
+I'm a Madly passionate web developer dedicated to helping small businesses transition from traditional operations to modern, digital platforms. I believe in the power of technology to transform and elevate businesses, making them more efficient and competitive in today's digital age. </p>
 <p align="left">
 </p>
 
 <h3 align="left">🚀 My Mission</h3>
 
 <p align="left">
-Hello! I'm Mad, a passionate web developer dedicated to helping small businesses transition from traditional operations to modern, digital platforms. I believe in the power of technology to transform and elevate businesses, making them more efficient and competitive in today's digital age. </p>
+To assist small businesses in adopting modern web technologies, enhancing their online presence, and streamlining their operations through digital solutions. </p>
 <p align="left">
 </p>
 
