@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
+<h1 align="center">Hello 👋, I'm Ahmad</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
