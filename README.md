@@ -16,9 +16,9 @@ I'm a Madly passionate web developer dedicated to helping small businesses trans
 To assist small businesses in adopting modern web technologies, enhancing their online presence, and streamlining their operations through digital solutions. </p>
 <p align="left">
 </p>
-<h1></h1>
 
-###🌟 Skills and Technologies
+
+<h3>🌟 Skills and Technologies</h3>
 Web Development: HTML, CSS, JavaScript, React, Node.js
 Backend: Express.js, MongoDB, SQL
 DevOps: Docker, Kubernetes, CI/CD
