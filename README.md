@@ -32,8 +32,8 @@ I'm a Madly passionate web developer dedicated to helping small businesses trans
 
 <hr>
 <h3>🔥 Projects</h3>
-<h4>Project 1: Modern Business Website</h4>
-<p>A sleek and responsive website template for small businesses, featuring modern design principles and optimized performance.</p>
+<h4>Project 1: Visual Merchandising - WEB-BASED MANAGEMENT SYSTEM</h4>
+<p>VMDMS is a web-based system designed to enhance VMD services, making them more competitive, modern, and advanced. By integrating traditional and digital merchandising, VMDMS transforms raw data into valuable information, generating substantial passive income. Its primary goals are to generate revenue and deliver superior, accessible services, thereby improving service quality to meet customer needs.</p>
 
 Project 2: Digital Transformation Toolkit
 A collection of tools and resources to help small businesses transition to digital platforms, including guides, templates, and software recommendations.
