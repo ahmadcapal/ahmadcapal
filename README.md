@@ -18,6 +18,13 @@ To assist small businesses in adopting modern web technologies, enhancing their 
 </p>
 <h1></h1>
 
+🌟 Skills and Technologies
+Web Development: HTML, CSS, JavaScript, React, Node.js
+Backend: Express.js, MongoDB, SQL
+DevOps: Docker, Kubernetes, CI/CD
+Network Engineering: CCNA Certified
+Other: Git, GitHub, Agile Methodologies
+
 <div class="flex-container">
   <div><h3>Web Development:<hr3>
    <br />
@@ -32,8 +39,9 @@ To assist small businesses in adopting modern web technologies, enhancing their 
     </p></div>
    
   <div><h3>Backend:<hr3>
+   <br /><br />
   <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p></div>
-  <div>3</div>  
+  <div><h3>Networking Enginer:<hr3></div>  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
