@@ -32,15 +32,23 @@ I'm a Madly passionate web developer dedicated to helping small businesses trans
 
 <hr>
 <h3>🔥 Projects</h3>
-<h4>Project 1: Visual Merchandising - WEB-BASED MANAGEMENT SYSTEM</h4>
+<h4>Project 1:Visual Merchandising - Web-based Management System</h4>
 <p>VMDMS is a web-based system designed to enhance VMD services, making them more competitive, modern, and advanced. By integrating traditional and digital merchandising, VMDMS transforms raw data into valuable information, generating substantial passive income. Its primary goals are to generate revenue and deliver superior, accessible services, thereby improving service quality to meet customer needs.</p>
 
-Project 2: Digital Transformation Toolkit
-A collection of tools and resources to help small businesses transition to digital platforms, including guides, templates, and software recommendations.
+<h4>Project 2: Digital Transformation Toolkit</h4>
+<p>A collection of tools and resources to help small businesses transition to digital platforms, including guides, templates, and software recommendations.</p>
 
-Project 3: Small Business CRM
-A simple and efficient customer relationship management (CRM) system tailored for small businesses, built with Node.js and MongoDB.
+<h4>Project 3: Small Business CRM</h4>
+<p></p>A simple and efficient customer relationship management (CRM) system tailored for small businesses, built with Node.js and MongoDB.</p>
 
+<hr>
+<h3>📚 Continuous Learning</h3>
+<p>I'm always on the lookout for new technologies and methodologies to improve my skill set. Currently, I'm diving deeper into:</p>
+<ul>
+<li>Advanced React and Next.js</li>
+<li>Cloud Computing with AWS</li>
+<li>Machine Learning for business analytics</li>
+</ul>
 <!---
 ahmadcapal/ahmadcapal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
