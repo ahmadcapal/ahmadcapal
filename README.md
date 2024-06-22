@@ -17,9 +17,9 @@ To assist small businesses in adopting modern web technologies, enhancing their 
 </p>
 <h1></h1>
 
-<h3>🌟 Skills and Technologies</h3>
+<h3>🌐 Web Development</h3>
 <ul>
-<li>Web Development: HTML, CSS, JavaScript, React, Node.js</li>
+<li>: HTML, CSS, JavaScript, React, Node.js</li>
 Backend: Express.js, MongoDB, SQL
 DevOps: Docker, Kubernetes, CI/CD
 Network Engineering: CCNA Certified
