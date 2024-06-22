@@ -30,6 +30,17 @@ I'm a Madly passionate web developer dedicated to helping small businesses trans
   </tr>
 </table>
 
+<hr>
+<h3>🔥 Projects</h3>
+<h4>Project 1: Modern Business Website</h4>
+<p>A sleek and responsive website template for small businesses, featuring modern design principles and optimized performance.</p>
+
+Project 2: Digital Transformation Toolkit
+A collection of tools and resources to help small businesses transition to digital platforms, including guides, templates, and software recommendations.
+
+Project 3: Small Business CRM
+A simple and efficient customer relationship management (CRM) system tailored for small businesses, built with Node.js and MongoDB.
+
 <!---
 ahmadcapal/ahmadcapal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
