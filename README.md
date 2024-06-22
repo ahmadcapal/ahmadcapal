@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello 👋, I'm Ahmad</h1>
-<h3 align="center">🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified</h3>
+<h2 align="center">🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified</h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About Me:</h3>
 <p align="left">
 </p>
 
