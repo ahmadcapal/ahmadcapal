@@ -32,6 +32,8 @@ Other: Git, GitHub, Agile Methodologies
 
 <div class="flex-container">
   <div><h3>Web Development:<hr3>
+  <a href="[https://www.mongodb.com/](https://www.credly.com/badges/3cd0827b-af11-4546-87e1-eba114e78e4e/public_url)" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://images.credly.com/size/220x220/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)" alt="CCNA" width="40" height="40"/> </a>
+
    <br />
    <br />
    <p align="left"> 
