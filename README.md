@@ -1,4 +1,4 @@
-
+(https://github.com/ahmadcapal/ahmadcapal/blob/main/banner.jpg)
 <h1 align="center"> Hello 👋, I'm Ahmad</h1>
 <h2 align="center">
   🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified</h2>
