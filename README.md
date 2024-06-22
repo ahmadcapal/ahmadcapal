@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello 👋, I'm Ahmad</h1>
-<h2 align="center">🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified</h2>
+<h1 align="center">Hello 👋, I'm Ahmad
+<h2 align="center">🌐 Web Developer | 💡 Digital Marketer | 🛠 CCNA Certified</h2></h1>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
