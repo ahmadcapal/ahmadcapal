@@ -12,10 +12,12 @@ I'm a Madly passionate web developer dedicated to helping small businesses trans
 <hr>
 <!---Skills--->
 <h3>🌟 Skills and Technologies</h3>
-| First Header  | Second Header | Second Header | Second Header |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Car Brand | Type      | Country   |
+|-----------|-----------|-----------|
+| Toyota    | SUV       | Japan     |
+| Ford      | Pickup    | USA       |
+| BMW       | Coupe     | Germany   |
+
 
 <hr>
 <h3>🔥 Projects</h3>
